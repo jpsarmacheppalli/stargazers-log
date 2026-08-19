@@ -1,0 +1,38 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "description": "The open-source curriculum for learning to code.",
+    "language": "JavaScript",
+    "stars": 410000,
+    "starred_at": "2026-08-15",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "developer-roadmap",
+    "owner": "kamranahmedse",
+    "description": "Community-driven roadmaps, articles, and guides for developers.",
+    "language": "TypeScript",
+    "stars": 320000,
+    "starred_at": "2026-08-09",
+    "url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "name": "fastapi",
+    "owner": "fastapi",
+    "description": "A modern, fast web framework for building APIs with Python.",
+    "language": "Python",
+    "stars": 85000,
+    "starred_at": "2026-07-28",
+    "url": "https://github.com/fastapi/fastapi"
+  },
+  {
+    "name": "ripgrep",
+    "owner": "BurntSushi",
+    "description": "A line-oriented search tool that recursively searches your current directory.",
+    "language": "Rust",
+    "stars": 52000,
+    "starred_at": "2026-07-12",
+    "url": "https://github.com/BurntSushi/ripgrep"
+  }
+]
